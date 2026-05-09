@@ -12,7 +12,8 @@ let cardImageTimers = [];
 
 const certifications = [
   {
-    title: "Blockchain Fundamentals - How it Works (Principles, Trust and Transparency)",
+    title:
+      "Blockchain Fundamentals - How it Works (Principles, Trust and Transparency)",
     description:
       "A complete Seminar on the principles of blockchain technology, including decentralized networks, cryptographic security, and real-world applications.",
     images: ["images/bert-c1.jpg"],
